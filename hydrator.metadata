@@ -1,0 +1,7 @@
+{
+  "repoURL": "https://github.com/sbkg0002/argocd-example-apps.git",
+  "drySha": "8938d430ba2171a7e2989318e4b06b463a7584fd",
+  "author": "Johan Steenhoven <1254233+sbkg0002@users.noreply.github.com>",
+  "date": "2026-01-09T11:12:36Z",
+  "subject": "Update image repository for frontend service"
+}
