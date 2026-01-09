@@ -5,7 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: gcr.io/google-samples/gb-frontend
+  repository: 382775818839.dkr.ecr.eu-central-1.amazonaws.com/gb-frontend
+  # repository: gcr.io/google-samples/gb-frontend
   tag: v5
   pullPolicy: IfNotPresent
 
