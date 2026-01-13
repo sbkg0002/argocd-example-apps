@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/sbkg0002/argocd-example-apps.git",
-  "drySha": "37c966f375f32a2c9824e263813971bbeeb80777",
-  "author": "Johan Steenhoven <Johan.Steenhoven@devolksbank.nl>",
-  "date": "2026-01-13T13:59:41Z",
-  "subject": "Update cpu to 115"
+  "drySha": "8e231e87ccb105b58a93cb692b2b629d4ae4092c",
+  "author": "Marko Petrovic <mpetrovic@schubergphilis.com>",
+  "date": "2026-01-13T14:24:05Z",
+  "subject": "fix merge"
 }
