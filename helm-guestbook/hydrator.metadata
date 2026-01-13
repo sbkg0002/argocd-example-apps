@@ -1,6 +1,6 @@
 {
   "repoURL": "https://github.com/sbkg0002/argocd-example-apps.git",
-  "drySha": "2a9180621f1089a35df0ba5da606ba5f975d7af8",
+  "drySha": "37c966f375f32a2c9824e263813971bbeeb80777",
   "commands": [
     "helm template . --name-template development-helm-guestbook --include-crds"
   ]
