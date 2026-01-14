@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/sbkg0002/argocd-example-apps.git",
-  "drySha": "3e0be3e5a7323e985de05826c68bab7695bcfc61",
+  "drySha": "cae1e71e7ab919d5cea47064d356359636b486d8",
   "author": "Marko Petrovic <mpetrovic@schubergphilis.com>",
-  "date": "2026-01-13T15:23:11Z",
-  "subject": "tmp"
+  "date": "2026-01-13T15:23:50Z",
+  "subject": "fix: dev"
 }
